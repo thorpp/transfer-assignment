@@ -1,3 +1,4 @@
 # Strengths
+lightweight
 
 # Weaknesses
